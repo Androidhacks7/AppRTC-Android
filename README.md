@@ -9,3 +9,8 @@ The app can be built and deployed as is with just changing the server IP in Serv
 The port numbers can be kept as is
 
 Note: This will work only when the mobile client and server are on the same network
+
+![ScreenShot](https://raw.github.com/Androidhacks7/AppRTC-Android/master/screenshots/Screenshot_2015-12-31-09-19-20.png)
+![ScreenShot](https://raw.github.com/Androidhacks7/AppRTC-Android/master/screenshots/Screenshot_2015-12-31-09-19-24.png)
+![ScreenShot](https://raw.github.com/Androidhacks7/AppRTC-Android/master/screenshots/Screenshot_20151231-092257.png)
+![ScreenShot](https://raw.github.com/Androidhacks7/AppRTC-Android/master/screenshots/Screenshot_2015-12-31-09-21-51.png)
